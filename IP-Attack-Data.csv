@@ -1,4 +1,4 @@
-ip,country,longitude,latitude,attack
+IP-Address,Country,Longitude,Latitude,Attack-Frequency
 216.218.206.69,United States,37.5497,-121.9621,1
 184.105.247.252,United States,40.7002,-111.9434,1
 74.82.47.5,United States,37.5497,-121.9621,5
